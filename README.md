@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Sysadmin7
-- 👀 I’m a Sysadmin and Desktop Engineer.
-- 🌱 I have a stong passion for SCCM, Automation, and Scripting.
+- 👋 Desktop Engineer and Sysadmin
+- 🌱 Strong focus on SCCM, Azure, And Endpoint Management
 - 💞️ I enjoy Powershell, Python, and VBScript.
 - 📫 This GitHub should serve as a repository of all things related to Desktop Engineering.
 

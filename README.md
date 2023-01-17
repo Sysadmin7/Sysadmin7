@@ -1,7 +1,6 @@
-- 👋 Desktop Engineer and Sysadmin
-- 🌱 Strong focus on SCCM, Azure, And Endpoint Management
-- 💞️ I enjoy Powershell, Python, and VBScript.
-- 📫 This GitHub should serve as a repository of all things related to Desktop Engineering.
+- 👋 Desktop Engineer and Sysadmin.
+- 🌱 Strong focus on SCCM, Azure, And Endpoint Management.
+- 💞️ Powershell and Python friendly.
 
 <!---
 Sysadmin7/Sysadmin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
